@@ -5,3 +5,4 @@ This project aims to predict whether a student will pass or fail using machine l
 
 # Objectives
 
+The primary objective of this project is to build a reliable model that can classify student performance into pass or fail categories.
