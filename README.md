@@ -35,14 +35,13 @@ The project uses the UCI Student Performance dataset, which contains detailed in
 ---
 
 ## Results
-
+The Gradient Boosting model outperformed others, particularly in Recall, which is critical for this use case (minimizing the number of at-risk students the model fails to catch)
 | Model | Accuracy | F1 Score |
 |---|---|---|
 | Logistic Regression | ~87% | ~90% |
 | Decision Tree | ~85% | ~89% |
 | **Gradient Boosting** | **~90%** | **~92%** |
 
-The Gradient Boosting model outperformed others, particularly in Recall, which is critical for this use case (minimizing the number of at-risk students the model fails to catch).
 ---
 
 ## Streamlit
