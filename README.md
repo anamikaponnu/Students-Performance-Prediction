@@ -12,7 +12,7 @@ This project aims to predict whether a student will pass or fail using machine l
 
 # Objectives
 
-The primary objective of this project is to build a reliable model that can classify student performance into pass or fail categories. In addition to prediction, the project focuses on comparing different machine learning models and identifying students who require additional academic support. A key aspect of this work is ensuring that the predictions are interpretable so that educators can understand the reasoning behind them and make informed decisions
+The primary objective of this project is to build a reliable model that can classify student performance into pass or fail categories. In addition to prediction, the project focuses on comparing different machine learning models and identifying students who require additional academic support. A key aspect of this work is ensuring that the predictions are interpretable so that educators can understand the reasoning behind them and make informed decisions.In the current educational landscape, timely support is the difference between a student's success and failure. This project leverages Predictive Analytics to identify at-risk students before final exams occur. By analyzing socio-economic factors, study habits, and historical grades, our system provides educators with a data-driven "early warning system.
 
 # Dataset
 
